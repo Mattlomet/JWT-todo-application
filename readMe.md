@@ -1,9 +1,10 @@
 README table of contents
+
 	1. photo overview
 	2. structure
 	3. how to run yourself
 
-![alt text](/assets/overview.png)
+![alt text](./assets/overview.png)
 ![alt text](/assets/overview.png)
 ![alt text](/assets/overview.png)
 ![alt text](/assets/overview.png)
