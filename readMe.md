@@ -7,7 +7,7 @@ README table of contents
 
 Overview
 
-![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/overview.PNG)
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/overview.jpg)
 		
 
 LOGIN
