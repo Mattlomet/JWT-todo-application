@@ -1,4 +1,18 @@
-TODO APPLICATION
+README table of contents
+	1. photo overview
+	2. structure
+	3. how to run yourself
+
+![alt text](/assets/overview.png)
+![alt text](/assets/overview.png)
+![alt text](/assets/overview.png)
+![alt text](/assets/overview.png)
+
+
+
+
+
+TODO APPLICATION STRUCTURE
 
 
 	BACKEND
@@ -17,8 +31,7 @@ TODO APPLICATION
 		CYPRESS
 		
 		
-		
-how to run yourself
+HOW TO RUN YOURSELF
 
 
 	git clone project
