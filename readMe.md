@@ -4,12 +4,27 @@ README table of contents
 	2. structure
 	3. how to run yourself
 
-![alt text](./assets/overview.png)
-![alt text](/assets/overview.png)
-![alt text](/assets/overview.png)
-![alt text](/assets/overview.png)
+
+Overview
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/overview.PNG)
+		
+
+LOGIN
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/login.jpg)
 
 
+SIGN UP
+
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/signup.jpg)
+
+
+REQUEST RESOURCE
+
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/requestResource.jpg)
 
 
 
