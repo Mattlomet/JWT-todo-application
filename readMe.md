@@ -1,4 +1,34 @@
-TODO APPLICATION
+README table of contents
+
+	1. photo overview
+	2. structure
+	3. how to run yourself
+
+
+Overview
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/overview.jpg)
+		
+
+LOGIN
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/login.jpg)
+
+
+SIGN UP
+
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/signup.jpg)
+
+
+REQUEST RESOURCE
+
+
+![alt text](https://github.com/Mattlomet/JWT-todo-application/blob/main/assets/requestResource.jpg)
+
+
+
+TODO APPLICATION STRUCTURE
 
 
 	BACKEND
@@ -17,8 +47,7 @@ TODO APPLICATION
 		CYPRESS
 		
 		
-		
-how to run yourself
+HOW TO RUN YOURSELF
 
 
 	git clone project
